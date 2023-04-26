@@ -1,0 +1,29 @@
+[33mcommit 26ec53c4ad6c8f6700a796641d1a0276343deb67[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mr. M <judson.murray@nbc.ca>
+Date:   Sun Apr 23 09:33:27 2023 -0300
+
+    Updated Starter to .NET 6.0
+
+[33mcommit 3f929caaac931870ceaa36421af4fef56df4b8ce[m
+Author: Chris Cusack - NBCC <42407887+chrisecusack@users.noreply.github.com>
+Date:   Wed Apr 22 11:53:05 2020 -0300
+
+    Update Form1.cs
+
+[33mcommit 75d31c9dd0aac6ffbb66fb933d1af339faff58e1[m
+Author: Chris <chris.cusack@nbcc.ca>
+Date:   Wed Apr 22 11:51:53 2020 -0300
+
+    Update Form1.cs
+
+[33mcommit 13e0d64c30e403cdbfd858582355acbcf14cc2b0[m
+Author: Chris <chris.cusack@nbcc.ca>
+Date:   Mon Apr 20 13:20:39 2020 -0300
+
+    Starter init
+
+[33mcommit c5acd6e4648a88b236945abd11229159059f1cec[m
+Author: Chris Cusack - NBCC <42407887+chrisecusack@users.noreply.github.com>
+Date:   Mon Apr 20 12:48:18 2020 -0300
+
+    Initial commit
